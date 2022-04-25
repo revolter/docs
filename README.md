@@ -1,5 +1,7 @@
 # fastlane docs
 
+1
+
 This repo contains all documentation for fastlane. You can find the `.md` files inside the [docs](docs) folder.
 
 To preview the updated documentation locally, just clone the repo, modify the file, and run
